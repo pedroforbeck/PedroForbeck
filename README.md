@@ -8,13 +8,12 @@
 
  <img src="https://emojis.slackmojis.com/emojis/images/1643516026/20498/playing_cards.png?1643516026" width="25"/> **SKILLS*
 
-
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="36" height="36" alt="React" /></a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1620759626/38068/angular.png?1620759626" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java" /></a>
 
 
 <h1>
@@ -26,7 +25,7 @@
  
  <img src="https://emojis.slackmojis.com/emojis/images/1643509963/44177/heisenberg.gif?1643509963" width="25"/> **ABOUT ME**
 
-I am a **Software Engineering Student** and a **Full Stack Java Developer**. I have a strong passion for building scalable web applications and solving complex problems.
+I am a **Software Engineering Student** and a **Full Stack Java Developer**. Currently **pursuing mastery of the Java language**, diving deep into advanced concepts to write efficient and robust code.
 
 <h2>
  
