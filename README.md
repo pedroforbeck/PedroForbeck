@@ -1,11 +1,6 @@
 <!--Banner-->
 ![Banner Image](./banner-.png)
 
-<div>
-  <img align="right" width="40%" src="https://pics.clipartpng.com/Realistic_Pine_Tree_PNG_Clip_Art-1103.png">
-</div>
-
-
 
 Skills!!
 
@@ -33,5 +28,8 @@ I am a **Software Engineering Student** and a **Full Stack Java Developer**. I h
 
   
 
+<div>
+  <img align="right" width="40%" src="">
+</div>
 
 
