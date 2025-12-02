@@ -1,27 +1,29 @@
 <!--Banner-->
 ![Banner Image](./banner-.png)
 
+<div>
+  <img align="right" width="40%" src="https://pics.clipartpng.com/Realistic_Pine_Tree_PNG_Clip_Art-1103.png">
+</div>
+
+
 
 Skills!!
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643509872/49591/java.png?1643509872" width="36" height="36" alt="Java" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="36" height="36" alt="React" /></a>
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+ <img src="https://emojis.slackmojis.com/emojis/images/1643517162/32022/autumn_tree.gif?1643517162" width="30"/> About Me
 
-- <img src= "https://emojis.slackmojis.com/emojis/images/1643516721/27681/script_code.gif?1643516721"/> Software Engineer Student
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
-<!--End Intro-->
+I am a **Software Engineering Student** and a **Full Stack Java Developer**. I have a strong passion for building scalable web applications and solving complex problems.
+
+**My Core Stack:**
+* ☕ **Java Ecosystem:** Expertly using Spring Boot and Spring Security for robust backends.
+* 🎨 **Frontend:** Building responsive interfaces with Angular, TypeScript, and JavaScript.
+* 💾 **Data Management:** Experienced with relational (PostgreSQL) and NoSQL (MongoDB) databases.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
