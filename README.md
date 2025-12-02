@@ -2,7 +2,7 @@
 
 
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515933/19530/ugly_code.gif?1643515933" width="50"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1749072021/123463/code-braces.png?1749072021" width="35"/>
   Pedro Forbeck
 </h1>
 
