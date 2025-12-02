@@ -2,8 +2,7 @@
 
 
 <h1>
-  <img src="![ugly_code](https://github.com/user-attachments/assets/1dc23a72-48bb-4ed6-9e8c-28c2206dfa7c)
-" width="30"/>
+  <img src="https://github.com/user-attachments/assets/1dc23a72-48bb-4ed6-9e8c-28c2206dfa7c](https://emojis.slackmojis.com/emojis/images/1643516721/27681/script_code.gif?1643516721" width="30"/>
   Pedro Forbeck
 </h1>
 
