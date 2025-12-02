@@ -33,9 +33,9 @@ I am a **Software Engineering Student** and a **Full Stack Java Developer**. I h
 </h2>
 
 **My Core Stack:**
-* ☕ **Java Ecosystem:** Expertly using Spring Boot and Spring Security for robust backends.
+* ☕ **Java Ecosystem:** Deep Learning into using Spring Boot and Spring Security for robust backends.
 * 🎨 **Frontend:** Building responsive interfaces with Angular, TypeScript, and JavaScript.
-* 💾 **Data Management:** Experienced with relational (PostgreSQL) and NoSQL (MongoDB) databases.
+* 💾 **Data Management:** Brief experience with relational (PostgreSQL) and NoSQL (MongoDB) databases.
 
 <h3>
  
