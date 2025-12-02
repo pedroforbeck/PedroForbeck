@@ -1,5 +1,5 @@
-<img width="2200" height="2020" alt="image" src="https://github.com/user-attachments/assets/362a3634-81dd-4fe3-acf8-88ae98b1921b" />
-
+<!--Banner-->
+![Banner Image](./banner.png)
 
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1749072021/123463/code-braces.png?1749072021" width="35"/>
