@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner-.png)
+![Banner Image](./banner--.gif)
 
 <h1>
  
