@@ -23,7 +23,7 @@
 
  
  
- <img src="https://emojis.slackmojis.com/emojis/images/1643509963/44177/heisenberg.gif?1643509963" width="25"/> **ABOUT ME**
+ **ABOUT ME**
 
 I am a **Software Engineering Student** and a **Full Stack Java Developer**. Currently **pursuing mastery of the Java language**, diving deep into advanced concepts to write efficient and robust code.
 
