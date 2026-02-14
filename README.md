@@ -6,7 +6,7 @@
 </h1>
 
 
- <img src="https://emojis.slackmojis.com/emojis/images/1643516026/20498/playing_cards.png?1643516026" width="25"/> *SKILLS*
+*SKILLS*
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,9 +32,9 @@ I am a **Software Engineering Student** and a **Full Stack Java Developer**. Cur
 </h2>
 
 **My Core Stack:**
-* ☕ **Java Ecosystem:** Deep Learning into using Spring Boot and Spring Security for robust backends.
-* 🎨 **Frontend:** Pursuing to build responsive interfaces with Angular, TypeScript, and JavaScript.
-* 💾 **Data Management:** Brief experience with relational (PostgreSQL) and NoSQL (MongoDB) databases.
+*  **Java Ecosystem:** Deep Learning into using Spring Boot and Spring Security for robust backends.
+*  **Frontend:** Pursuing to build responsive interfaces with Angular, TypeScript, and JavaScript.
+*  **Data Management:** Brief experience with relational (PostgreSQL) and NoSQL (MongoDB) databases.
 
 <h3>
  
