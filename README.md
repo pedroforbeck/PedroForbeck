@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner--.gif)
+![alt text](https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/banner.jpg)
 
 <h1>
  
