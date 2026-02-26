@@ -12,7 +12,7 @@
 I am a passionate **Software Engineering Student** currently pursuing mastery of the **Java ecosystem**. I dive deep into advanced concepts to write efficient, secure, and robust code. 
 
 - 🔭 I’m currently working on building robust backends with **Spring Boot** and **Spring Security**.
-- 🌱 I’m currently learning to build responsive interfaces with **Angular** and **TypeScript**.
+- 🌱 Currently learning to build responsive interfaces with **Angular** and **TypeScript**.
 - 💡 **Focus:** Clean code, secure API design, and scalable architectures.
 
 ---
