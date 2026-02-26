@@ -1,10 +1,12 @@
-![alt text](https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/banner.jpg)
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/readme.gif" width="100%" alt="Matrix Code Greeting">
+  
   <p>Software Engineering Student | Full Stack Java Developer</p>
 </div>
 
 ---
+
+### 👨‍💻 About Me
 ---
 
 ### 👨‍💻 About Me
