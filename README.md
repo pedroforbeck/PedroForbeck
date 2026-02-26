@@ -1,10 +1,10 @@
 ![alt text](https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/banner.jpg)
 
 <div align="center">
-  <h3>Olá! I'm Pedro Forbeck 👋</h3>
   <p>Software Engineering Student | Full Stack Java Developer</p>
 </div>
 
+---
 ---
 
 ### 👨‍💻 About Me
@@ -37,11 +37,7 @@ I am a passionate **Software Engineering Student** currently pursuing mastery of
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroforbeck&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroforbeck&layout=compact&theme=radium"/>
-</div>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ---
 
 ### 📫 Reach me on
