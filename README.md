@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/readme.gif" width="100%" alt="Matrix Code Greeting">
+
+https://github.com/user-attachments/assets/d430598e-0b69-4bb4-a689-413e7db3695a
+<div align="center">
+  <video src="https://github.com/pedroforbeck/PedroForbeck/raw/main/readme.mp4" autoplay loop muted playsinline width="100%"></video>
   
   <p>Software Engineering Student | Full Stack Java Developer</p>
 </div>
 
----
 
-### 👨‍💻 About Me
 ---
 
 ### 👨‍💻 About Me
