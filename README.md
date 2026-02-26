@@ -1,50 +1,52 @@
-<!--Banner-->
 ![alt text](https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/banner.jpg)
 
-<h1>
- 
-</h1>
-
-
-*SKILLS*
-
-<div align="left" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  
+<div align="center">
+  <h3>Olá! I'm Pedro Forbeck 👋</h3>
+  <p>Software Engineering Student | Full Stack Java Developer</p>
 </div>
 
+---
 
-<h1>
+### 👨‍💻 About Me
 
- 
-</h1>
+I am a passionate **Software Engineering Student** currently pursuing mastery of the **Java ecosystem**. I dive deep into advanced concepts to write efficient, secure, and robust code. 
 
- 
- 
- **ABOUT ME**
+- 🔭 I’m currently working on building robust backends with **Spring Boot** and **Spring Security**.
+- 🌱 I’m currently learning to build responsive interfaces with **Angular** and **TypeScript**.
+- 💡 **Focus:** Clean code, secure API design, and scalable architectures.
 
-I am a **Software Engineering Student** and a **Full Stack Java Developer**. Currently **pursuing mastery of the Java language**, diving deep into advanced concepts to write efficient and robust code.
+---
 
-<h2>
- 
-</h2>
+### 🛠️ Skills & Tools
 
-**My Core Stack:**
-*  **Java Ecosystem:** Deep Learning into using Spring Boot and Spring Security for robust backends.
-*  **Frontend:** Pursuing to build responsive interfaces with Angular, TypeScript, and JavaScript.
-*  **Data Management:** Brief experience with relational (PostgreSQL) and NoSQL (MongoDB) databases.
+<div align="left">
+  <img width="40" title="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" title="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" title="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" title="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="40" title="Angular" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
+  <img width="40" title="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" title="CSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" title="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="40" title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">  
+</div>
 
-<h3>
- 
-</h3>
+---
 
-<h2  align="center">📫 Reach me on</h2>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedroforbeck&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroforbeck&layout=compact&theme=radium"/>
+</div>
+
+---
+
+### 📫 Reach me on
+
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/pedro-forbeck-180a98390/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pedrofbks@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/pedro-forbeck-180a98390/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pedrofbks@gmail.com?subject=Hello%20Pedro,%20I%20saw%20your%20GitHub!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
