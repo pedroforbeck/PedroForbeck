@@ -9,7 +9,6 @@
 I am a **Software Engineering Student** currently pursuing mastery of the **Java ecosystem**. I dive deep into advanced concepts to write efficient, secure, and robust code.
 
 * `[work]` Building robust backends with **Spring Boot** and **Spring Security**.
-* `[stud]` Learning to build responsive interfaces with **Angular** and **TypeScript**.
 * `[goal]` Focused on clean code, secure API design, and scalable architectures.
 ---
 
