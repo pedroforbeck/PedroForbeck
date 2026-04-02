@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedroforbeck/PedroForbeck/refs/heads/main/readme.webp" width="100%" alt="Pedro Forbeck Matrix Banner">
+  <img src="banner2.png">
 </div>
 
 ---
