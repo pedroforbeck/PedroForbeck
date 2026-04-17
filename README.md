@@ -28,12 +28,6 @@ I am a **Software Engineering Student** currently pursuing mastery of the **Java
 
 ---
 
-### > **[Git]** Stats
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-forbeck-180a98390/" target="_blank">
