@@ -6,7 +6,9 @@
 
 ### > About Me
 
-I am a **Software Engineering Student** currently pursuing mastery of the **Java ecosystem**. I dive deep into advanced concepts to write efficient, secure, and robust code.
+I'm a **Software Engineering** student focused on backend development with Java and Spring Boot. My projects explore REST APIs, authentication, microservices, event-driven systems, and observability.
+
+I've contributed accepted changes to open-source projects, including toxibr and Facepunch's s&box. I'm currently looking for a backend internship or junior developer opportunity.
 
 * `[work]` Building robust backends with **Spring Boot** and **Spring Security**.
 * `[goal]` Focused on clean code, secure API design, and scalable architectures.
